@@ -1,0 +1,20 @@
+{
+    "Author": "James R Tabor",
+    "ContentSize": 2400,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/return-the-size-of-an-azure-sql-db-via-powershell/master/GetAzureSQLDBSize.ps1",
+    "DownloadCount": 961,
+    "Id": "Return-the-size-of-an-e6faa757",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 315,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-6-16T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script returns the reported Azure SQL database size, as reported in the Azure Portal via PowerShell.The script uses an older versions of the Azure REST api for Azure SQL (2014-04-01-preview) which has a usages operation available.The functionality of this api will likely be",
+    "Title": "Return the size of an Azure SQL DB via PowerShell",
+    "UpdatedDate": "2018-6-16T00:00:00",
+    "Url": "https://github.com/azureautomation/return-the-size-of-an-azure-sql-db-via-powershell",
+    "UserTags": "Microsoft Azure, Windows Azure SQL Database, Microsoft Azure SQL Database"
+}
